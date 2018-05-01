@@ -1,7 +1,7 @@
 Auto-Hacking-USB
 ================
 
-Auto-Hacking-USB..... Explains Itself!
+Auto-Hacking-USB
 
 Download the program and then extract all the files to a USB drive. Plug the USB drive into the computer and click start.
 
@@ -12,12 +12,8 @@ Puts all Internet history to a text file on the USB
 Puts all search history to a text file on the USB
 And tons more
 
-What I'm working on:
-Remote Keylogger upload to FTP or website
-Session stealer by copying all browser cookies
-And tons more :)
-
-I am not responsible for anything you do with this program
+**I am not responsible for anything you do with this program**
+==============================================================
 
 Auto Hacking USB V3.0
 
@@ -29,13 +25,8 @@ Auto Hacking USB V3.0
   Removed Eset AV Remover
   Adds Silent Batch AV Remover
   
-  
-  Whats new with Keylogger:
-  
-  		Better performance
-	
-	If you want to add your Rat/Bot bin goto the folder App and drag your Rat to the folder bins and name it bin
+ 
 	
 	
 You can email me suggestions and other things about AHU at:
-rossepstein@rdevmobile.com
+lauzzy12@gmail.com
